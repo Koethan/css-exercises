@@ -1,0 +1,20 @@
+p {
+    background-color: pink;
+
+}
+
+#green{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#color{
+    color: blue;
+    font-size: 36px;
+    font-family: 'Verdana', 'DejaVus Sans', 'sans-serif';
+}
+
+.check{
+    font-size: 24px;
+}
